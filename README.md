@@ -1,6 +1,6 @@
 # hello-word
 test test
-# I'm here so I don't get fired, testing 1..2..3..
+# I'm here so I don't get fined, testing 1..2..3..
 
 Now that's out the way, my name is Chuka Okoye-Ahaneku and I'm based in London.
 
